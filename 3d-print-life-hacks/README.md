@@ -1,5 +1,8 @@
 # 3D Print Life Hacks
 
+![3D Print Life Hacks Cover](./cover.jpg)  
+*Cover image of the ebook*
+
 ## 📖 [Get the Ebook on Amazon](https://www.amazon.com/dp/B0FJHHZBHM)
 
 ---
