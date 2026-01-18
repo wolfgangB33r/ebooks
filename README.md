@@ -39,3 +39,22 @@ Mastering TabShop for Small Business Success
 This book is a complete and practical guide for entrepreneurs and small business owners looking to take control of their sales, inventory, and customer management using TabShop, the flexible mobile Point-of-Sale (POS) system. From the first steps of setting up your store to more advanced techniques like synchronizing data with Google Sheets or connecting to WooCommerce, the book walks you through how to build a professional, efficient, and scalable POS system entirely from your tablet or smartphone.
 
 ### 📂 [Access the Local Folder](./tabshop-pos-book/)
+
+
+## Cheat the Algorithms: How to manipulate AI models to get what you want
+
+The book is divided into three powerful parts. The first lays the groundwork for understanding how modern AI models work. Readers learn how tech giants train and deploy AI models like GPT, Claude, and LLaMA to influence purchasing decisions, shape opinions, and control the flow of information. It argues that without AI literacy, especially among younger generations growing up surrounded by these systems, individuals risk becoming passive targets of manipulation.
+
+### 📂 [Access the Local Folder](./cheat-the-algorithms/)
+
+
+## Business Value of Agentic AI
+
+Explore the Cutting Edge of AI in the Age of Intelligent Agents
+
+Dive into the latest breakthroughs shaping the future of artificial intelligence in this compelling issue focused on Agentic AI, interoperability protocols, governance, and real-world applications. Discover how Anthropic's innovations sparked a new wave of smart agent interaction, and how Google's Agent2Agent Protocol (A2A) redefines agent interoperability—challenging the rising Model Context Protocol (MCP) standard now adopted by OpenAI and embraced by platforms like mcp.so, which catalogs over 500 new MCP servers daily.
+
+### 📂 [Access the Local Folder](./business-value-of-agentic-ai/)
+
+
+
